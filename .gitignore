@@ -22,3 +22,17 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.github
+.husky
+.vscode
+mock
+.eslintrc.cjs
+.lintstagedrc.cjs
+commitlint.config.cjs
+index.html
+jest.config.js
+jsconfig.json
+package.json
+vite.config.js
+vitest.setup.js
